@@ -65,7 +65,7 @@ Action/
 ## 编译打包
 
 ```bash
-pyinstaller --onefile --windowed --icon="nl_icon.ico" --name="Neverlose" main.py
+pyinstaller --onefile --windowed --icon="nl_icon.ico" --name="Action" main.py
 ```
 
 ## 配置参数
